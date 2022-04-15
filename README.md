@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Venil
-- 👀 I’m interested in Aesha
+- 👀 I’m interested in Ai-ML
 - 🌱 I’m currently learning Python
 - 📫 How to reach me venilkhunt3223@gmail.com
 
