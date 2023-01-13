@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/venil3223" target="blank"><img src="https://img.shields.io/twitter/follow/venil3223?logo=twitter&style=for-the-badge" alt="venil3223" /></a> </p>
 
-- 🔭 I’m currently working on **Yelp-camp**
-
 - 🌱 I’m currently learning **Artificial intelligence and Machine learning , Node.js**
 
 - 💬 Ask me about **Python , Ai-Ml , Node.js**
